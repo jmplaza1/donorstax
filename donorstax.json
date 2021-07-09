@@ -21,7 +21,22 @@
 						  {
               "name": "When is donative intent necessary?",
               "details": "Only in cases of direct gift.",
+						  "children": [
+										{
+              "name": "Note 1",
+              "details": "If the gift is indirectly taking place by way of sale, exchange or other transfer of property as contemplated in cases of transfers for less than adequate and full consideration, donative intent is not necessary to constitute a gift. Even if there is no actual donation, the difference in price is considered a donation by fiction of law.",
+						  "children": [
+									{
+              "name": "Note 2",
+              "details": "However, even if the sale, exchange, or other transfer of property is for an insufficient consideration, the same will be considered as made for an adequate and full consideration in money or money's worth if made in the ordinary course of business.",
 						  "children": []}
+						]}
+						  
+						  ]}
+						]}
+										
+										
+										]}
 						]},
             {
               "name": "Who may Donate",
