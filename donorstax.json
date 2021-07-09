@@ -97,11 +97,11 @@
 			},
 			
 			{
-			"name": "Family Code",
+			"name": Civil Laws",
 			"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
 			"children": [     
 						{
-						"name": "Domestic Corporations",
+						"name": "Requisites of a Valid Donation",
 						"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
 						"children": [                               
                                     {
@@ -203,7 +203,7 @@
                       ]
                       },
             {
-              "name": "Resident Foreign Corporations",
+              "name": "Who may Donate",
               "details": "A corporation which is not domestic and engaged in trade or business in the Philippines [NIRC, Sec 22(H)]",
               "children": [
                                       {
@@ -359,6 +359,16 @@
 							]							  
 							}				  
 ]
-}
+},
+ {
+                        "name": "Gross Gift",
+                        "details": "CONST, Art. IV, Sec. 4",
+                        "children":[
+                                    {
+                                    "name": "Resident Citizen",
+                                    "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
+                                    "children":[]
+                                    }
+
 ]
 }
