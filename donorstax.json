@@ -1,99 +1,13 @@
 {
 "name": "Donor's Tax",
-"details": "Tax on all yearly profits arising from property, profession, trades, or offices, or as a tax on a person's income, emoluments, profits and the like. It is a tax upon the privilege of receiving income or profit. It is an excise tax, and not a tax on property.",
+"details": "It is an excise tax imposed on the privilege to transfer property by way of gift inter vivos based on a pure act of liberality without any or less than adequate consideration and without any legal compulsion to give.",
 "children": [
   
 			{
 "name": "Definitions",
 			"details": "CONST, Art. IV, Sec. 4",
 			"children":[
-                       {
-                        "name": "Citizen",
-                        "details": "CONST, Art. IV, Sec. 4",
-                        "children":[
-                                    {
-                                    "name": "Resident Citizen",
-                                    "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
-                                    "children":[]
-                                    },
-                                    {
-                                    "name": "Non-Resident Citizen",
-                                    "details": "WELP 1) Works abroad most of the time 2) Establishes fact of physical presence abroad with a definite intention to reside therein 3) Leaves to reside abroad as an immigrant or for employment on a permanent basis 4) Previously considered as non-resident citizen for his income derived abroad",
-                                    "children":[
-												{
-												"name": "OCW/OFW",
-												"details": "A Filipino citizen employed in a foreign country, who is physically present in a foreign country as a consequence of employment thereat.",
-												"children": [
-															{
-															"name": "Note: ",
-															"details": "An OFW/OCW's income arising from his overseas employment is exempt from income tax. However, if an OCW/OFW has earnings from business activities or properties within the Phils are subject t",
-															"children":[]
-															}
-															]
-												}
-												]
-									}
-									]
-					   },
-									{
-                                        "name": "Alien",
-                                        "details": "Any person not a citizen of the Philippines. (Com. Act No. 613, The Philippine Immigration Act of 1940, sec. 50 (b)) ",
-                                        "children":[
-                                                    {
-                                                    "name": "Resident Alien",
-                                                    "details": "An individual whose residence is within the Philippines and who is not a citizen thereof. (Rep. Act No. 8424, Tax Reform Act of 1997, sec. 22(F))",
-                                                    "children":[]
-                                                    },
-													{
-                                                    "name": "Non-Resident Alien",
-                                                    "details": "An individual whose residence is not within the Philippines and who is not a citizen thereof",
-                                                    "children":[
-                                                                {
-                                                                "name": "NRA ETB",
-                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
-                                                                "children":[]
-                                                                },
-                                                                {
-                                                                "name": "NRA NETB",
-                                                                "details": "If the aggregate period of stay in the Philippines exceeds 180 days for each calendar year.",
-                                                                "children":[]
-                                                                }                                   
-                                                                ]
-													}
-													]
-									},
-									{
-                                                                "name": "Special Classes of Individual Employees",
-                                                                "details": "",
-                                                                "children":[
-																					{
-                                                                "name": "Minimum Wage Earners",
-                                                                "details": "",
-                                                                "children":[]
-                                                                }, 
-																					{
-                                                                "name": "Employees of ROHQs, OBUs, and FSC",
-                                                                "details": "",
-                                                                "children":[]
-                                                                },
-																					{
-                                                                "name": "Purely Self Employed Professional",
-                                                                "details": "",
-                                                                "children":[]
-                                                                },
-																					{
-                                                                "name": "Mixed Income Earners",
-                                                                "details": "",
-                                                                "children":[]
-                                                                },
-																					{
-                                                                "name": "Senior Citizens",
-                                                                "details": "",
-                                                                "children":[]
-                                                                }    																
-																	]
-                                                                }    
-			]
+                     ]
 			},
 			
 			{
@@ -102,109 +16,16 @@
 			"children": [     
 						{
 						"name": "Requisites of a Valid Donation",
-						"details": "a corporation created or organized in the Philippines or under its laws [NIRC, Sec. 22(C)] ",
-						"children": [                               
-                                    {
-                                    "name": "Regular Corporate Income Tax",
-                                    "details": "Changes",
-                                    "children":[
-                                               {
-                                        "name": "Before",
-                                                                                 "details": "30%",
-                                        "children":[]
-                                      },  {
-                                        "name": "CREATE Law",
-                                        "details": "Starting July 2020, 25% or 20%, subject to the following conditions: \n (1) Net taxable income is not more than P5M, and \n (2) Total Assets not more than P100M",
-                                        "children":[]
-                                      }
-                                        ]
-                                      }, 
-                                          {
-                                        "name": "Minimum Corporate Income Tax",
-                                        "details": "Changes",
-                                        "children":[
-                                           {
-                                        "name": "Before",
-                                        "details": "2%",
-                                        "children":[]
-                                      },
-                                       {
-                                        "name": "CREATE Law",
-                                        "details": "1%, July 1, 2020 to July 30, 2023",
-                                        "children":[]
-                                      }
-                                        ]
-                                      },   
-                                      {
-                                        "name": "Deductions from Gross Income",
-                                        "details": "Changes",
-                                        "children":[
-                                                                     {
-                                        "name": "Before",
-                                        "details": "Non-deductible interest expense: 33% of interest income subject to final tax",
-                                        "children":[]
-                                      },
-                                                                 {
-                                        "name": "CREATE Law",
-                                        "details": "(1) Additional 50% deduction for labor training expense. (2) Non-deductible interest expense: 20% of interest income subject to final tax",
-                                        "children":[]
-                                      }
-                                        ]
-                                      },   
-                                      {
-                                        "name": "IAET",
-                                         "details": "Improperly Accumulated Earnings Tax - Changes",
-                                        "children":[
-                                             {
-                                        "name": "Before",
-                                         "details": "10%",
-                                        "children":[]
-                                      },
-                                         {
-                                        "name": "CREATE Law",
-                                         "details": "Repealed, July 01,2020 to June 30, 2023",
-                                        "children":[]
-                                      }
-
-                                        ]
-                                      },   
-                                      {
-                                        "name": "PEIH",
-                                        "details": "Proprietary Educational Institutions and Hospitals - Changes",
-                                        "children":[
-                                             {
-                                        "name": "Before",
-                                         "details": "10% of Net taxable income",
-                                        "children":[]
-                                      },
-                                         {
-                                        "name": "CREATE Law",
-                                         "details": "1% of net taxable income, July 01, 2020 to June 30, 2023",
-                                        "children":[]
-                                      }
-                                        ]
-                                      },   
-                                      {
-                                        "name": "Intercorporate Dividends",
-                                        "details": "Changes",
-                                        "children":[
-                                             {
-                                        "name": "Before",
-                                         "details": "Dividends from NRFC - 30% RCIT",
-                                        "children":[]
-                                      },
-                                         {
-                                        "name": "CREATE Law",
-                                         "details": "Dividends from NRFC - exempt from income tax subject to the following conditions: 1) reinvestment in DC, 2) 20% or more ownership, 3) 2+ years holding period",
-                                        "children":[]
-                                      }
-                                        ]
-                                      }
-                      ]
-                      },
+						"details": "CDDAF 1) Capacity of the donor; 2) Donative intent; 3) Delivery, whether actual or constructive; 4) Acceptance by donee; 5) Form prescribed by law",
+						"children": [
+						  {
+              "name": "When is donative intent necessary?",
+              "details": "Only in cases of direct gift.",
+						  "children": []}
+						]},
             {
               "name": "Who may Donate",
-              "details": "A corporation which is not domestic and engaged in trade or business in the Philippines [NIRC, Sec 22(H)]",
+              "details": "All persons who may contract and dispose of their property may make a donation. The donor's capacity shall be determined as of the time of making a donation.",
               "children": [
                                       {
                                     "name": "Regular Corporate Income Tax",
@@ -367,7 +188,9 @@
                                     {
                                     "name": "Resident Citizen",
                                     "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
-                                    "children":[]}]}
+                                    "children":[]
+									
+									}]}
 
 ]
 }
