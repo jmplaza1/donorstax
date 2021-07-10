@@ -7,8 +7,7 @@
 			{
 "name": "Rate",
 "url" : "",
-			"details": "The donor’s tax for each calendar year shall be six percent (6%) computed on the basis of the total gifts in excess of Two Hundred Fifty Thousand Pesos (P250,000) exempt gift made during the calendar year.",
-			"children":[]
+			"details": "The donor’s tax for each calendar year shall be six percent (6%) computed on the basis of the total gifts in excess of Two Hundred Fifty Thousand Pesos (P250,000) exempt gift made during the calendar year."
 			},
 			
 			{
@@ -21,19 +20,16 @@
 			"url" : "",
 						"details": "CDDAF 1) Capacity of the donor; 2) Donative intent; 3) Delivery, whether actual or constructive; 4) Acceptance by donee; 5) Form prescribed by law",
 						"children": [
-						  {
-              "name": "When is donative intent necessary?",
-				"url" : "",
-              "details": "Only in cases of direct gift.",
-											  "children": [
-															{
-								  "name": "Note 1",
-											"url" : "",
-								  "details": "If the gift is indirectly taking place by way of sale, exchange or other transfer of property as contemplated in cases of transfers for less than adequate and full consideration, donative intent is not necessary to constitute a gift. Even if there is no actual donation, the difference in price is considered a donation by fiction of law.",
-											  "children": [
-														{
-								  "name": "Note 2",
-											"url" : "",
+						  {"name": "When is donative intent necessary?",
+							"url" : "",
+							"details": "Only in cases of direct gift.",
+							"children": [
+								{"name": "Note 1",
+								"url" : "",
+								 "details": "If the gift is indirectly taking place by way of sale, exchange or other transfer of property as contemplated in cases of transfers for less than adequate and full consideration, donative intent is not necessary to constitute a gift. Even if there is no actual donation, the difference in price is considered a donation by fiction of law.",
+								 "children": [
+								{"name": "Note 2",
+									"url" : "",
 								  "details": "However, even if the sale, exchange, or other transfer of property is for an insufficient consideration, the same will be considered as made for an adequate and full consideration in money or money's worth if made in the ordinary course of business.",
 											  "children": []}
 											]}
@@ -44,9 +40,7 @@
               "name": "Who may Donate",
 			  			"url" : "",
               "details": "All persons who may contract and dispose of their property may make a donation. The donor's capacity shall be determined as of the time of making a donation."
-}
-			  
-]},
+}]},
 						{"name": "Gross Gift",
 						"url" : "",
                         "details": "",
@@ -159,8 +153,7 @@
 																{
 												"name": "Proviso",
 												"url" : "https://www.google.com",
-												"details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
-												"children":[]
+												"details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes."
 												},
 													{
 												"name": "Definition",
@@ -184,8 +177,7 @@
 															"url" : "",
 												"details": "FMV - Amount of Mortgage Assumed"}
 												]}
-			]
-}, 
+			]}, 
 {
                                     "name": "Doctrines",
 												"url" : "",
