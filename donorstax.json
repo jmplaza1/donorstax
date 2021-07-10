@@ -107,7 +107,35 @@
                         "name": "Renunciation of Inheritance to a Co-Heir",
 									"url" : "",
 									"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others.",
+                        "children":[]},
+																		{
+                        "name": "Remuneratory Donations",
+									"url" : "",
+									"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed.",
+                        "children":[]},
+																		{
+                        "name": "Gratuitious Donations to Associations",
+									"url" : "",
+									"details" : "Donations to HOA are subject to donor's tax.",
+                        "children":[]},
+																		{
+                        "name": "Donations Made by a Foreign Corporation",
+									"url" : "",
+									"details" : "Foreign corporations effecting a donation are subject to donor's tax only if the property is located in the Philippines. Accordingly, the donation of its own shares is not subject to donor's tax.",
+                        "children":[
+					
+																		{
+                        "name": "Note 1",
+									"url" : "",
+									"details" : "However, if 85% of the business of the foreign corporation is located in the Philippines or the shares donated have acquired business situs in the Philippines, the donation to may be taxed subject to the rule of reciprocity.",
                         "children":[]}
+						,
+																		{
+                        "name": "Note 2",
+									"url" : "",
+									"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax.",
+                        "children":[]}
+						]}
 									
 									
 									
