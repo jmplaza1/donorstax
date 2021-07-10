@@ -80,5 +80,44 @@
 									
 									}]
 									
+									},
+									{
+                                    "name": "Athlete's Prized and Awards",
+                                    "details": "Requisites: 1) Award in local and international sports tournaments 2) Held in the Philippines or abroad 3) Sanctioned by their representative national sports associations",
+                                    "children":[
+									]},
+									{
+                                    "name": "Encumbrances on the Property Donated if Assumed by the Donee",
+                                    "details": "These include claims or liabilities attached to the property such as mortgage, security interests, cost of rights, and unpaid taxes which are allowed as a deduction once assumed by the donee.",
+                                    "children":[
+									{
+                                    "name": "Net Gift",
+                                    "details": "FMV - Amount of Mortgage Assumed",
+                                    "children":[]}
+									
+									]}
+]}, 
+{
+                                    "name": "Jurisprudence",
+                                    "details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
+                                    "children":[
+									{
+                                    "name": "Donation Mortis Causa",
+                                    "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time.",
+                                    "children":[]
+				
 									}
-]}]}
+									]
+									
+									
+									
+									}
+
+
+
+
+
+
+
+
+]}
