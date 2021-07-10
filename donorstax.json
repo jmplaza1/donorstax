@@ -88,14 +88,55 @@
                         "children":[
 												{
                         "name": "Sec. 95 of the Omnibus Election Code",
-									"url" : "",
+									"url" : "https://www.jurisprudence.tech/the-omnibus-election-code/",
                         "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax",
                         "children":[]}]},
 												{
                         "name": "Renunciation of Share of Surviving Spouse",
 									"url" : "",
-									"details" : "",
+									"details" : "Renunciation by the surviving spouse to his/her share in the conjugal or community after the dissolution of marriage in favor of the heirs is subject to donor's tax",
+                        "children":[
+												{
+                        "name": "Note",
+									"url" : "",
+									"details" : "Renunciation of the wife's share in the inheritance from her husband is not a taxable gift, considering that the property is automatically transferred to the other heirs by operation of law due to her repudiation of her inheritance.",
                         "children":[]}
+						]},
+												{
+                        "name": "Renunciation of Inheritance to a Co-Heir",
+									"url" : "",
+									"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others.",
+                        "children":[]},
+												{
+                        "name": "Renunciation to Another Person not a Co-Heir",
+									"url" : "",
+									"details" : "There is donation subject to donor's tax since there is a change in the distribution of the estate.",
+                        "children":[]},
+												{
+                        "name": "Remuneratory Donations",
+									"url" : "",
+									"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed.",
+                        "children":[]},
+												{
+                        "name": "Gratuitious Donations to Associations",
+									"url" : "",
+									"details" : "Donations to HOA are subject to donor's tax.",
+                        "children":[]},
+												{
+                        "name": "Donations Made by a Foreign Corporation",
+									"url" : "",
+									"details" : "Foreign corporations effecting a donation are subject to donor's tax only if the property is located in the Philippines. Accordingly, the donation of its own shares is not subject to donor's tax.",
+                        "children":[
+																		{
+                        "name": "Note:",
+									"url" : "",
+									"details" : "However, if 85% of the business of the foreign corporation is located in the Philippines or the shares donated have acquired business situs in the Philippines, the donation to may be taxed subject to the rule of reciprocity.",
+                        "children":[												{
+                        "name": "Note:",
+									"url" : "",
+									"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax.",
+                        "children":[]}]}
+						]}
 									
 									
 									
@@ -131,7 +172,7 @@
 										{
                                     "name": "Definition",
 												"url" : "",
-                                    "details": "a school, college or university and/or charitable corporation, accredited nongovernment organization, trust or philanthropic organization and/or research institution or organization, incorporated as a non-stock entity, paying no dividends, governed by trustees who receive no compensation, and devoting all its income, whether students’ fees or gifts, donation, subsidies or other forms of philanthropy, to the accomplishment and promotion of the purposes enumerated in its Articles of Incorporation.",
+                                    "details": "a school, college or university and/or charitable corporation, accredited nongovernment organization, trust or philanthropic organization and/or research institution or organization, incorporated as a non-stock entity, paying no dividends, governed by trustees who receive no compensation, and devoting all its income to the accomplishment and promotion of the purposes enumerated in its Articles of Incorporation.",
                                     "children":[]
 									
 									}]
@@ -157,7 +198,7 @@
 									]}
 ]}, 
 {
-                                    "name": "Jurisprudence",
+                                    "name": "Doctrines",
 												"url" : "",
                                     "details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
                                     "children":[
@@ -167,7 +208,12 @@
                                     "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time.",
                                     "children":[]
 				
-									}
+									}, 
+																					{
+                        "name": "Arm's Length:",
+									"url" : "",
+									"details" : "Transaction was done at arm's length if 1) the parties are unrelated (in the familial or business sense) 2) they have equal bargaining power 3) they are acting in their own self-interest"
+                        "children":[]}
 									]
 									
 									
