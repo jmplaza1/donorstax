@@ -38,20 +38,18 @@
               "details": "However, even if the sale, exchange, or other transfer of property is for an insufficient consideration, the same will be considered as made for an adequate and full consideration in money or money's worth if made in the ordinary course of business.",
 						  "children": []}
 						]}
-	
-						]},
+						  ]}
+,
             {
               "name": "Who may Donate",
 			  			"url" : "",
-              "details": "All persons who may contract and dispose of their property may make a donation. The donor's capacity shall be determined as of the time of making a donation.",
-              "children": [                 ]
-						}]}
+              "details": "All persons who may contract and dispose of their property may make a donation. The donor's capacity shall be determined as of the time of making a donation."
+}
 			  
-]
-},
- {
-                        "name": "Gross Gift",
-									"url" : "",
+]}
+			]},
+						{"name": "Gross Gift",
+						"url" : "",
                         "details": "",
                         "children":[
                                     {
@@ -89,8 +87,8 @@
 												{
                         "name": "Sec. 95 of the Omnibus Election Code",
 									"url" : "https://www.jurisprudence.tech/the-omnibus-election-code/",
-                        "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax",
-                        "children":[]}]},
+                        "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax"
+}]},
 												{
                         "name": "Renunciation of Share of Surviving Spouse",
 									"url" : "",
@@ -127,18 +125,19 @@
 									"url" : "",
 									"details" : "Foreign corporations effecting a donation are subject to donor's tax only if the property is located in the Philippines. Accordingly, the donation of its own shares is not subject to donor's tax.",
                         "children":[
-																		{
+						{
                         "name": "Note:",
 									"url" : "",
 									"details" : "However, if 85% of the business of the foreign corporation is located in the Philippines or the shares donated have acquired business situs in the Philippines, the donation to may be taxed subject to the rule of reciprocity.",
-                        "children":[												{
+                        "children":[
+						{
                         "name": "Note:",
 									"url" : "",
 									"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax."
 						]}
 						]}
 						]}
-						]}
+				
  ]},
  {
                         "name": "Exemptions",
@@ -196,14 +195,9 @@
 									{
                                     "name": "Donation Mortis Causa",
 												"url" : "",
-                                    "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time.",
-                                    "children":[]
-				
+                                    "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time."
 									}, 
-																					{
-                        "name": "Arm's Length:",
+									{"name": "Arm's Length:",
 									"url" : "",
 									"details" : "Transaction was done at arm's length if 1) the parties are unrelated (in the familial or business sense) 2) they have equal bargaining power 3) they are acting in their own self-interest"}
-									]
-											}
-]}
+											]}]}
