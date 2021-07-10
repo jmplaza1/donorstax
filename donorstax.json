@@ -67,10 +67,8 @@
                                     {
                                     "name": "Void Donations",
 												"url" : "",
-                                    "details": "Void donations are not subject to donor's tax. However, if it was already paid, taxpayer only has 2 years from the date of payment to file for claim or refund regardless of any supervening event.",
-                                    "children":[]
-									
-									}]},
+                                    "details": "Void donations are not subject to donor's tax. However, if it was already paid, taxpayer only has 2 years from the date of payment to file for claim or refund regardless of any supervening event."}
+									]},
 									{
                         "name": "Donation by One of the Spouses",
 									"url" : "",
@@ -89,60 +87,51 @@
 												{
                         "name": "Sec. 95 of the Omnibus Election Code",
 									"url" : "https://www.jurisprudence.tech/the-omnibus-election-code/",
-                        "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax",
-                        "children":[]}]},
-												{
+                        "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax"}
+						]},
+						{
                         "name": "Renunciation of Share of Surviving Spouse",
 									"url" : "",
 									"details" : "Renunciation by the surviving spouse to his/her share in the conjugal or community after the dissolution of marriage in favor of the heirs is subject to donor's tax",
                         "children":[
-												{
+						{
                         "name": "Note",
 									"url" : "",
-									"details" : "Renunciation of the wife's share in the inheritance from her husband is not a taxable gift, considering that the property is automatically transferred to the other heirs by operation of law due to her repudiation of her inheritance.",
-                        "children":[]}
+									"details" : "Renunciation of the wife's share in the inheritance from her husband is not a taxable gift, considering that the property is automatically transferred to the other heirs by operation of law due to her repudiation of her inheritance."}
 						]},
-												{
+						{
                         "name": "Renunciation of Inheritance to a Co-Heir",
 									"url" : "",
-									"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others.",
-                        "children":[]},
-												{
+									"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others."},
+						{
                         "name": "Renunciation to Another Person not a Co-Heir",
 									"url" : "",
-									"details" : "There is donation subject to donor's tax since there is a change in the distribution of the estate.",
-                        "children":[]},
-												{
+									"details" : "There is donation subject to donor's tax since there is a change in the distribution of the estate."},
+						{
                         "name": "Remuneratory Donations",
 									"url" : "",
-									"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed.",
-                        "children":[]},
-												{
+									"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed."},
+						{
                         "name": "Gratuitious Donations to Associations",
 									"url" : "",
-									"details" : "Donations to HOA are subject to donor's tax.",
-                        "children":[]},
-												{
+									"details" : "Donations to HOA are subject to donor's tax."},
+						{
                         "name": "Donations Made by a Foreign Corporation",
 									"url" : "",
 									"details" : "Foreign corporations effecting a donation are subject to donor's tax only if the property is located in the Philippines. Accordingly, the donation of its own shares is not subject to donor's tax.",
-                        "children":[
-																		{
-                        "name": "Note:",
-									"url" : "",
-									"details" : "However, if 85% of the business of the foreign corporation is located in the Philippines or the shares donated have acquired business situs in the Philippines, the donation to may be taxed subject to the rule of reciprocity.",
-                        "children":[												{
-                        "name": "Note:",
-									"url" : "",
-									"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax.",
-                        "children":[]}]}
-						]}
-									
-									
-									
-									]
-									
-									}]},
+										"children":[
+										{
+										"name": "Note:",
+													"url" : "",
+													"details" : "However, if 85% of the business of the foreign corporation is located in the Philippines or the shares donated have acquired business situs in the Philippines, the donation to may be taxed subject to the rule of reciprocity.",
+													"children":[												{
+													"name": "Note:",
+																"url" : "",
+																"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax."}
+																]}
+																]}
+																]}
+																]},
  {
                         "name": "Exemptions",
 									"url" : "",
@@ -205,10 +194,7 @@
 									{
                                     "name": "Donation Mortis Causa",
 												"url" : "",
-                                    "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time.",
-                                    "children":[]
-				
-									}, 
+                                    "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time."}, 
 																					{
                         "name": "Arm's Length:",
 									"url" : "",
