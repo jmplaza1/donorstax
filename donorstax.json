@@ -58,7 +58,27 @@
                                     "details": "Void donations are not subject to donor's tax. However, if it was already paid, taxpayer only has 2 years from the date of payment to file for claim or refund regardless of any supervening event.",
                                     "children":[]
 									
-									}]}
+									}]},
+									{
+                        "name": "Donation by One of the Spouses",
+                        "details": "Husband and wife are considered separate and distinct taxpayers for purposes of donor's tax. If what was donated is a conjugal or community property and only the husband signed the deed of donation, there is only one donor for donor's tax purposes, without prejudice to the right of the wife to question the validity of the donation without her consent.",
+                        "children":[]},
+						{
+                        "name": "Donation to Conceived and Unborn Child",
+                        "details": "Such donations may be accepted by those persons who would legally represent them if they were already born",
+                        "children":[]},
+												{
+                        "name": "Contributions for Election Campaign",
+                        "details": "<a href="https://observablehq.com/@observablehq/inputs">an official inputs library</a>",
+                        "children":[
+												{
+                        "name": "Sec. 95 of the Omnibus Election Code",
+                        "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax",
+                        "children":[]}]},
+												{
+                        "name": "",
+                        "children":[]}
+									
 									
 									
 									]
