@@ -94,7 +94,19 @@
 												{
                         "name": "Renunciation of Share of Surviving Spouse",
 									"url" : "",
-									"details" : "",
+									"details" : "Renunciation by the surviving spouse to his/her share in the conjugal or community after the dissolution of marriage in favor of the heirs is subject to donor's tax",
+                        "children":[
+																												{
+                        "name": "Note",
+									"url" : "",
+									"details" : "Renunciation of the wife's share in the inheritance from her husband is not a taxable gift, considering that the property is automatically transferred to the other heirs by operation of law due to her repudiation of her inheritance.",
+                        "children":[]}
+										
+						]},
+																		{
+                        "name": "Renunciation of Inheritance to a Co-Heir",
+									"url" : "",
+									"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others.",
                         "children":[]}
 									
 									
@@ -155,11 +167,12 @@
                                     "children":[]}
 									
 									]}
+									
 ]}, 
 {
-                                    "name": "Jurisprudence",
+                                    "name": "Doctrines",
 												"url" : "",
-                                    "details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
+                                    "details": "And other stuff you need to recall",
                                     "children":[
 									{
                                     "name": "Donation Mortis Causa",
@@ -167,7 +180,14 @@
                                     "details": "The reservation by the donor of the right to dispose of the property during her lifetime in the deed does not indicate that title had passed to the donee in her lifetime but that the donor merely reserves power to destroy the donation at any time.",
                                     "children":[]
 				
-									}
+									},
+									{
+                                    "name": "Arm's Length",
+												"url" : "",
+                                    "details": "Transaction was done at arm's length if 1) the parties are unrelated (in the familial or business sense) 2) they have equal bargaining power 3) they are acting in their own self-interest",
+                                    "children":[]}
+									
+									]}
 									]
 									
 									
