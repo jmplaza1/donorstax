@@ -30,8 +30,7 @@
 								 "children": [
 								{"name": "Note 2",
 									"url" : "",
-								  "details": "However, even if the sale, exchange, or other transfer of property is for an insufficient consideration, the same will be considered as made for an adequate and full consideration in money or money's worth if made in the ordinary course of business.",
-											  "children": []}
+								  "details": "However, even if the sale, exchange, or other transfer of property is for an insufficient consideration, the same will be considered as made for an adequate and full consideration in money or money's worth if made in the ordinary course of business."}
 											]}
 											]
 						}]}
@@ -40,7 +39,7 @@
               "name": "Who may Donate",
 			  			"url" : "",
               "details": "All persons who may contract and dispose of their property may make a donation. The donor's capacity shall be determined as of the time of making a donation."
-}]},
+			}]},
 						{"name": "Gross Gift",
 						"url" : "",
                         "details": "",
@@ -64,13 +63,11 @@
 														{
 											"name": "Donation by One of the Spouses",
 														"url" : "",
-											"details": "Husband and wife are considered separate and distinct taxpayers for purposes of donor's tax. If what was donated is a conjugal or community property and only the husband signed the deed of donation, there is only one donor for donor's tax purposes, without prejudice to the right of the wife to question the validity of the donation without her consent.",
-											"children":[]},
+											"details": "Husband and wife are considered separate and distinct taxpayers for purposes of donor's tax. If what was donated is a conjugal or community property and only the husband signed the deed of donation, there is only one donor for donor's tax purposes, without prejudice to the right of the wife to question the validity of the donation without her consent."}
 											{
 											"name": "Donation to Conceived and Unborn Child",
 														"url" : "",
-											"details": "Such donations may be accepted by those persons who would legally represent them if they were already born",
-											"children":[]},
+											"details": "Such donations may be accepted by those persons who would legally represent them if they were already born"},
 																	{
 											"name": "Contributions for Election Campaign",
 														"url" : "",
@@ -96,23 +93,19 @@
 																	{
 											"name": "Renunciation of Inheritance to a Co-Heir",
 														"url" : "",
-														"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others.",
-											"children":[]},
+														"details" : "A general renunciation of inheritance in favor of a co-heir is not a donation for the purpose of taxation, unless specifically and categorically done in favor of indentified heirs to the exclusion of others."},
 																	{
 											"name": "Renunciation to Another Person not a Co-Heir",
 														"url" : "",
-														"details" : "There is donation subject to donor's tax since there is a change in the distribution of the estate.",
-											"children":[]},
+														"details" : "There is donation subject to donor's tax since there is a change in the distribution of the estate."},
 																	{
 											"name": "Remuneratory Donations",
 														"url" : "",
-														"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed.",
-											"children":[]},
+														"details" : "One where the donee gives something to reward past or future services or because of future changes or burdens, when the value of said services, burdens or charges is less than the value of the donation. Subject to donation as to the portion which exceeds the value of the burden imposed."},
 																	{
 											"name": "Gratuitious Donations to Associations",
 														"url" : "",
-														"details" : "Donations to HOA are subject to donor's tax.",
-											"children":[]},
+														"details" : "Donations to HOA are subject to donor's tax."},
 																	{
 											"name": "Donations Made by a Foreign Corporation",
 														"url" : "",
@@ -141,10 +134,7 @@
 												{
 												"name": "National Government",
 															"url" : "",
-												"details": "Gifts made to or for the use of the National Government or any entity created by any of its agencies which is not conducted for profit, or to any political subdivision of the said Government",
-												"children":[]
-												
-												},
+												"details": "Gifts made to or for the use of the National Government or any entity created by any of its agencies which is not conducted for profit, or to any political subdivision of the said Government"},
 												{
 												"name": "NGOs, et al",
 															"url" : "",
@@ -158,15 +148,12 @@
 													{
 												"name": "Definition",
 															"url" : "",
-												"details": "a school, college or university and/or charitable corporation, accredited nongovernment organization, trust or philanthropic organization and/or research institution or organization, incorporated as a non-stock entity, paying no dividends, governed by trustees who receive no compensation, and devoting all its income to the accomplishment and promotion of the purposes enumerated in its Articles of Incorporation.",
-												"children":[]
-												}]},
+												"details": "a school, college or university and/or charitable corporation, accredited nongovernment organization, trust or philanthropic organization and/or research institution or organization, incorporated as a non-stock entity, paying no dividends, governed by trustees who receive no compensation, and devoting all its income to the accomplishment and promotion of the purposes enumerated in its Articles of Incorporation."}
+												]},
 												{
 												"name": "Athlete's Prized and Awards",
 															"url" : "",
-												"details": "Requisites: 1) Award in local and international sports tournaments 2) Held in the Philippines or abroad 3) Sanctioned by their representative national sports associations",
-												"children":[
-												]},
+												"details": "Requisites: 1) Award in local and international sports tournaments 2) Held in the Philippines or abroad 3) Sanctioned by their representative national sports associations"},
 												{
 												"name": "Encumbrances on the Property Donated if Assumed by the Donee",
 															"url" : "",
@@ -177,11 +164,10 @@
 															"url" : "",
 												"details": "FMV - Amount of Mortgage Assumed"}
 												]}
-			]}, 
-{
-                                    "name": "Doctrines",
+										]}, 
+												{"name": "Doctrines",
 												"url" : "",
-                                    "details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
+												"details": "Not more than thirty percent (30%) of said gifts shall be used by such donee for administration purposes.",
 													"children":[
 													{
 													"name": "Donation Mortis Causa",
