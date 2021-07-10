@@ -66,9 +66,8 @@
                                     "name": "Void Donations",
 												"url" : "",
                                     "details": "Void donations are not subject to donor's tax. However, if it was already paid, taxpayer only has 2 years from the date of payment to file for claim or refund regardless of any supervening event.",
-                                    "children":[]
-									
-									}]},
+									}
+									]},
 									{
                         "name": "Donation by One of the Spouses",
 									"url" : "",
@@ -88,7 +87,8 @@
                         "name": "Sec. 95 of the Omnibus Election Code",
 									"url" : "https://www.jurisprudence.tech/the-omnibus-election-code/",
                         "details": "Any provision in cash or kind to any candidate or political party or coalition of parties for campaign purposes, duly reported to the COMELEC shall not be subject to payment of any gift tax"
-}]},
+}
+]},
 												{
                         "name": "Renunciation of Share of Surviving Spouse",
 									"url" : "",
@@ -98,7 +98,7 @@
                         "name": "Note",
 									"url" : "",
 									"details" : "Renunciation of the wife's share in the inheritance from her husband is not a taxable gift, considering that the property is automatically transferred to the other heirs by operation of law due to her repudiation of her inheritance.",
-                        "children":[]}
+}
 						]},
 												{
                         "name": "Renunciation of Inheritance to a Co-Heir",
@@ -134,11 +134,12 @@
                         "name": "Note:",
 									"url" : "",
 									"details" : "Donation of a foreign corporation of its own shares in favor of a resident employee is not subject to donor's tax because they were given in consideration of the resident employee's services, hence, subject to income tax."
-						]}
+						}
 						]}
 						]}
 				
- ]},
+ ]}
+						]},
  {
                         "name": "Exemptions",
 									"url" : "",
@@ -200,4 +201,5 @@
 									{"name": "Arm's Length:",
 									"url" : "",
 									"details" : "Transaction was done at arm's length if 1) the parties are unrelated (in the familial or business sense) 2) they have equal bargaining power 3) they are acting in their own self-interest"}
-											]}]}
+											]}
+											]}
