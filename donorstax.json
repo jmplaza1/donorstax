@@ -1,10 +1,12 @@
 {
 "name": "Donor's Tax",
+"url" : "https://observablehq.com/@jmplaza/donors-tax",
 "details": "It is an excise tax imposed on the privilege to transfer property by way of gift inter vivos based on a pure act of liberality without any or less than adequate consideration and without any legal compulsion to give.",
 "children": [
   
 			{
 "name": "Rate",
+"url" : "",
 			"details": "The donor’s tax for each calendar year shall be six percent (6%) computed on the basis of the total gifts in excess of Two Hundred Fifty Thousand Pesos (P250,000) exempt gift made during the calendar year.",
 			"children":[
                      ]
@@ -12,14 +14,17 @@
 			
 			{
 			"name": "Civil Laws",
+			"url" : "https://observablehq.com/@jmplaza/donors-tax",
 			"details": "",
 			"children": [     
 						{
 						"name": "Requisites of a Valid Donation",
+						"url" : "https://observablehq.com/@jmplaza/donors-tax",
 						"details": "CDDAF 1) Capacity of the donor; 2) Donative intent; 3) Delivery, whether actual or constructive; 4) Acceptance by donee; 5) Form prescribed by law",
 						"children": [
 						  {
               "name": "When is donative intent necessary?",
+			  "url" : "https://observablehq.com/@jmplaza/donors-tax",
               "details": "Only in cases of direct gift.",
 						  "children": [
 										{
