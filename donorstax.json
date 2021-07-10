@@ -46,9 +46,22 @@
                         "details": "",
                         "children":[
                                     {
-                                    "name": "Resident Citizen",
-                                    "details": "A citizen of the Philippines who stayed in the Philippines or stayed outside the Philippines for less than 183 days during the taxable year.",
+                                    "name": "Specific Cases of Transfers Inter Vivos",
+                                    "details": "",
+                                    "children":[
+									{
+                        "name": "Donation Between Spouses",
+                        "details": "GR: Void; Exceptions: 1) Donations Mortis Cause 2) Moderate Gifts ",
+                        "children":[
+                                    {
+                                    "name": "Void Donations",
+                                    "details": "Void donations are not subject to donor's tax. However, if it was already paid, taxpayer only has 2 years from the date of payment to file for claim or refund regardless of any supervening event.",
                                     "children":[]
+									
+									}]}
+									
+									
+									]
 									
 									}]},
  {
